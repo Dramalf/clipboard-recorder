@@ -2,7 +2,7 @@
 [简体中文](README.md) | [English](README-en.md)
 
     
-Store text from clipboard temporarily and call a history management popup with just a combination of custom keyboard shortcuts.
+Store text from clipboard temporarily and call a history management popup with just a combination of custom keyboard shortcuts on Mac.
 
 ![demo](https://github.com/Dramalf/clipboard-recorder/assets/43701793/f82e67b6-71a4-4e35-b3da-cabc04ad01b5)
 ## You should know
