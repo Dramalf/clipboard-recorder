@@ -1,5 +1,5 @@
 # clipboard-recorder
-[简体中文](README-zh.md) | [English](README.md)
+[简体中文](README.md) | [English](README-en.md)
 
     
 Store text from clipboard temporarily and call a history management popup with just a combination of custom keyboard shortcuts.
